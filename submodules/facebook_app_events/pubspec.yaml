@@ -1,0 +1,7 @@
+name: facebook_app_events
+description: Mock implementation of Facebook App Events
+version: 1.0.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.9.2

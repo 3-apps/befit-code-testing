@@ -1,0 +1,29 @@
+name: befit_code_testing
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_bloc: ^9.1.1
+  get_it: ^9.2.0
+  
+  facebook_app_events:
+    path: ./submodules/facebook_app_events
+  firebase_analytics:
+    path: ./submodules/firebase_analytics
+  firebase_remote_config:
+    path: ./submodules/firebase_remote_config
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,15 @@
+name: firebase_remote_config
+description: Mock implementation of Firebase Remote Config
+version: 1.0.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/config.json

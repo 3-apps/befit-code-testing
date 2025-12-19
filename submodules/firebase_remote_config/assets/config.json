@@ -1,0 +1,311 @@
+{
+    "onboarding_pt": [
+        {
+            "id": "welcome-screen",
+            "cta_event": "onboarding_started",
+            "content": {
+                "type": "welcome_content",
+                "data": {
+                    "header_contents": [
+                        {
+                            "title": "Treine com um plano para você.",
+                            "subtitle": "Obtenha um treino personalizado para seu perfil, avaliando seus objetivos e metas."
+                        },
+                        {
+                            "title": "Treinos que se adaptam à medida que você progride.",
+                            "subtitle": "Otimize automaticamente seu treinamento entre cada exercício."
+                        },
+                        {
+                            "title": "Veja resultados mensuráveis semana a semana.",
+                            "subtitle": "Acompanhe seus recordes e o histórico de exercícios para ver seu progresso semana a semana."
+                        }
+                    ],
+                    "start_cta": "Começar"
+                }
+            }
+        },
+        {
+            "id": "gender",
+            "cta_event": "onboarding_gender",
+            "content": {
+                "type": "header_content",
+                "data": {
+                    "title": "Qual gênero você se identifica?"
+                }
+            }
+        },
+        {
+            "id": "current-experience",
+            "cta_event": "onboarding_level",
+            "content": {
+                "type": "header_content",
+                "data": {
+                    "title": "Qual é a sua experiência com treino de força?"
+                }
+            }
+        },
+        {
+            "id": "gym-goal",
+            "cta_event": "onboarding_goal",
+            "content": {
+                "type": "header_content",
+                "data": {
+                    "title": "Qual é o seu principal objetivo na academia?"
+                }
+            }
+        },
+        {
+            "id": "training-frequency",
+            "cta_event": "onboarding_frequency",
+            "content": {
+                "type": "training_frequency_content",
+                "data": {
+                    "elements": [
+                        {
+                            "type": "onboarding_option",
+                            "data": {
+                                "title": "Qual é a sua frequência de treino?"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "age",
+            "cta_event": "onboarding_age",
+            "content": {
+                "type": "header_content",
+                "data": {
+                    "title": "Qual a sua idade?"
+                }
+            }
+        },
+        {
+            "id": "height",
+            "cta_event": "onboarding_height",
+            "content": {
+                "type": "header_content",
+                "data": {
+                    "title": "Qual a sua altura?"
+                }
+            }
+        },
+        {
+            "id": "current-weight",
+            "cta_event": "onboarding_current_weight",
+            "content": {
+                "type": "header_content",
+                "data": {
+                    "title": "Qual o seu peso?"
+                }
+            }
+        }
+    ],
+    "onboarding_es": [
+        {
+            "id": "welcome-screen",
+            "cta_event": "onboarding_started",
+            "content": {
+                "type": "welcome_content",
+                "data": {
+                    "header_contents": [
+                        {
+                            "title": "Entrena con un plan diseñado para ti",
+                            "subtitle": "Obtén un plan personalizado para ti, evaluando tus habilidades y objetivos actuales."
+                        },
+                        {
+                            "title": "Entrenamientos que se adaptan a tus progresos.",
+                            "subtitle": "Optimiza automáticamente tu entrenamiento entre cada ejercicio."
+                        },
+                        {
+                            "title": "Ve resultados mensurables semana tras semana.",
+                            "subtitle": "Realiza un seguimiento de tus récords e historial de ejercicios para ver tu progreso semana a semana."
+                        }
+                    ],
+                    "start_cta": "Comenzar"
+                }
+            }
+        },
+        {
+            "id": "gender",
+            "cta_event": "onboarding_gender",
+            "content": {
+                "type": "header_content",
+                "data": {
+                    "title": "¿Con qué género te sientes más alineado?"
+                }
+            }
+        },
+        {
+            "id": "current-experience",
+            "cta_event": "onboarding_level",
+            "content": {
+                "type": "header_content",
+                "data": {
+                    "title": "¿Cuál es tu experiencia en entrenamiento de pesas?"
+                }
+            }
+        },
+        {
+            "id": "gym-goal",
+            "cta_event": "onboarding_goal",
+            "content": {
+                "type": "header_content",
+                "data": {
+                    "title": "¿Cuál es tu principal objetivo en el gimnasio?"
+                }
+            }
+        },
+        {
+            "id": "training-frequency",
+            "cta_event": "onboarding_frequency",
+            "content": {
+                "type": "training_frequency_content",
+                "data": {
+                    "elements": [
+                        {
+                            "type": "onboarding_option",
+                            "data": {
+                                "title": "¿Con qué frecuencia entrenas fuerza?"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "age",
+            "cta_event": "onboarding_age",
+            "content": {
+                "type": "header_content",
+                "data": {
+                    "title": "¿Cuál es tu edad?"
+                }
+            }
+        },
+        {
+            "id": "height",
+            "cta_event": "onboarding_height",
+            "content": {
+                "type": "header_content",
+                "data": {
+                    "title": "¿Cuál es tu altura?"
+                }
+            }
+        },
+        {
+            "id": "current-weight",
+            "cta_event": "onboarding_current_weight",
+            "content": {
+                "type": "header_content",
+                "data": {
+                    "title": "¿Cuál es tu peso?"
+                }
+            }
+        }
+    ],
+    "onboarding_en": [
+        {
+            "id": "welcome-screen",
+            "cta_event": "onboarding_started",
+            "content": {
+                "type": "welcome_content",
+                "data": {
+                    "header_contents": [
+                        {
+                            "title": "Train with a plan built just for you",
+                            "subtitle": "Get a plan tailored to you based on your current fitness level and goals."
+                        },
+                        {
+                            "title": "Workouts that adapt as you progress.",
+                            "subtitle": "Automatically optimize your training between every workout."
+                        },
+                        {
+                            "title": "See measurable results week by week.",
+                            "subtitle": "Track your PRs and workout history to see your progress from week to week."
+                        }
+                    ],
+                    "start_cta": "Get Started"
+                }
+            }
+        },
+        {
+            "id": "gender",
+            "cta_event": "onboarding_gender",
+            "content": {
+                "type": "header_content",
+                "data": {
+                    "title": "Which gender do you identify with?"
+                }
+            }
+        },
+        {
+            "id": "current-experience",
+            "cta_event": "onboarding_level",
+            "content": {
+                "type": "header_content",
+                "data": {
+                    "title": "What’s your strength training experience?"
+                }
+            }
+        },
+        {
+            "id": "gym-goal",
+            "cta_event": "onboarding_goal",
+            "content": {
+                "type": "header_content",
+                "data": {
+                    "title": "What is your main goal at the gym?"
+                }
+            }
+        },
+        {
+            "id": "training-frequency",
+            "cta_event": "onboarding_frequency",
+            "content": {
+                "type": "training_frequency_content",
+                "data": {
+                    "elements": [
+                        {
+                            "type": "onboarding_option",
+                            "data": {
+                                "title": "How often do you work out?"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "age",
+            "cta_event": "onboarding_age",
+            "content": {
+                "type": "header_content",
+                "data": {
+                    "title": "What’s your age?"
+                }
+            }
+        },
+        {
+            "id": "height",
+            "cta_event": "onboarding_height",
+            "content": {
+                "type": "header_content",
+                "data": {
+                    "title": "What’s your height?"
+                }
+            }
+        },
+        {
+            "id": "current-weight",
+            "cta_event": "onboarding_current_weight",
+            "content": {
+                "type": "header_content",
+                "data": {
+                    "title": "What’s your weight?"
+                }
+            }
+        }
+    ]
+}

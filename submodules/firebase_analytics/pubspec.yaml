@@ -1,0 +1,7 @@
+name: firebase_analytics
+description: Mock implementation of Firebase Analytics
+version: 1.0.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.9.2
